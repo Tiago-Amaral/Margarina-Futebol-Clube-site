@@ -1,0 +1,37 @@
+
+
+.imagem{
+    width:100%;
+    max-width:500px ;
+    margin: 0 auto;
+    min-height:30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:aliceblue;
+}
+.inner{
+    display: flex;
+}
+
+.item{
+    min-width: 200px;
+    min-height: 100px;
+    padding:35px;
+    
+}
+
+.item img{
+    width:250px;
+    height:90%;
+    border-radius: 12px;
+    padding:10px;
+    pointer-events: none;
+    }
+
+    .carousel{
+        cursor: grab;
+        overflow:hidden ;
+    }
+
+    

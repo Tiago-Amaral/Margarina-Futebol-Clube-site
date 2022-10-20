@@ -1,0 +1,28 @@
+
+body{
+    background-color: #252526;
+}
+
+iframe{
+    
+}
+
+.jogos{
+    color: white;
+    margin-top:20px;
+}
+/*.logo{
+    width:70px;
+    height:70px;
+    
+    
+    
+    
+}
+*/
+
+@media screen and (max-width:730px) {
+    iframe{
+        width:350px;
+    }   
+}
